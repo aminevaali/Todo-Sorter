@@ -1,7 +1,7 @@
-# Settler
+# Todo Sorter
 ## The problem:
 It is very hard to sort a list items manually. If you can attach a number to every single item in your list it would be very easy for computer.
-But what if your list items were abstract and impossible to attach a certain number on them?
+But what if your list items are abstract and it's impossible to attach a certain number on them?
 
 ## The Solution:
 This is a simple and useful program to do that hard task with help of yourself.
